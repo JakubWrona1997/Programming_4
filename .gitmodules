@@ -1,0 +1,8 @@
+  
+[submodule "Lab1_P4"]
+	path = Lab1_PIV
+	url = https://github.com/JakubWrona1997/Programming_4.git
+
+[submodule "Lab2_P4"]
+	path = Lab2_PIV
+	url = https://github.com/JakubWrona1997/Programming_4.git
